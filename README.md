@@ -15,7 +15,7 @@ Thank you for your interest in the workshop.  This is a “hands-on” workshop 
 This is probably the easiest way to get started. You can access Jupyter notebooks in a shared cloud environment using a Google research project called Colab.  This has the advantage of letting you try out a notebook without having to install anything on your local computer.  But the disadvantage is that the session will timeout after 12 hours.  It is not suitable for doing real data science work, but it is a good option for this workshop.
 
 To access the system, go to the following URL in a browser (Chrome works best):
-https://colab.research.google.com/  This will launch a new virtual environment where you can play with the workshop notebooks.  Check to make sure the environment is working by doing the following:
+https://colab.research.google.com/  This will launch a new virtual environment where you can play with the workshop notebooks.  Make sure you have a Google login and are logged into the Colab service.  Check to make sure the environment is working by doing the following:
 
 1.	When you go https://colab.research.google.com, a pop-up screen will ask you which notebook to open.  Click the “GITHUB” tab and then put in joh06288 for the Github URL and find the AMIA2019_W07 repository and select the “Check_Environment” notebook:
 
